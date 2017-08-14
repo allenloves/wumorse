@@ -1,8 +1,7 @@
 ---
-layout : posts
+layout : default
 title : Impressionism
-categories : notes
-tags : history 20th
+date : 2015-11-17 16:16:01 -0600
 ---
 
 # Impressionism #
