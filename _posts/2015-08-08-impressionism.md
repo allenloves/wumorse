@@ -1,7 +1,7 @@
 ---
 layout : default
 title : Impressionism
-date : 2015-11-17
+date : gehowieneibtg
 ---
 
 The term "impressionism" came from a satirical review from Louis Leroy against Monet's painting "impression, soleil levant" in 1874.  It was a movement driven from the struggle between conventional art academism and new technology of paints that makes painting outside of studio practical.  However, impressionism in music is more influenced by literature rather than paintings. 
