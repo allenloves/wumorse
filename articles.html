@@ -4,9 +4,13 @@ title : Wu Morse Articles
 ---
 
 <p>
-<ul class="list">
+<div class="page-wrapper">
+	<div id="page" class="container">
 	{% for post in site.posts %}
-		<li><a href=".{{ post.url }}">{{ post.title }}</a></li>
+		<div class="title"
+			<li><a href=".{{ post.url }}">{{ post.title }}</a></li>
+		</div>
 	{% endfor %}
-</ul>
+	</div>
+</div>
 </p>
