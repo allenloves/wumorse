@@ -411,7 +411,7 @@
 	{
 		overflow: hidden;
 		padding: 20em 0em;
-		background: url(images/banner.jpg) no-repeat center;
+		background: url(../images/banner.jpg) no-repeat center;
 		background-size: cover;
 	}
 
