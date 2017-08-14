@@ -1,0 +1,18 @@
+---
+layout : default
+title : Wu Morse Articles
+---
+
+<h1>Articles</h1>
+
+<p>
+<ul class="list">
+	{% for post in site.posts %}
+		{% for category in post.categories %}
+			{% if category == "notes" %}
+				<li><a href=".{{ post.url }}">{{ post.title }}</a></li>
+			{% endif %}
+		{% endfor %}
+	{% endfor %}
+</ul>
+</p>
