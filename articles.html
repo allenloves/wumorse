@@ -8,8 +8,9 @@ title : Wu Morse Articles
 	<div id="page" class="container">
 	{% for post in site.posts %}
 		<div class="title">
-			<li><a href=".{{ post.url }}">{{ post.author }}, {{ post.title }} -- {{ post.date | date_to_string }}</a></li>
-			{{ post.excerpt }}(<a href=".{{ post.url }}">continue reading...</a>)
+			<li><a href=".{{ post.url }}">{{ post.author }}, {{ post.title }} -- {{ post.date | date_to_string }}</a>
+			<p>{{ post.excerpt }}<a href=".{{ post.url }}">...(continue reading...</a>)</p>
+			</li>
 		</div>
 	{% endfor %}
 	</div>
