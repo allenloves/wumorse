@@ -8,7 +8,7 @@ title : Wu Morse Events
 	<div id="page" class="container">
 	{% for item in site.data.events %}
 		<div class="title">
-			<li><a href="{{ item.url }}"> {{ item.title }}</a>
+			<li><h2><a href="{{ item.url }}"> {{ item.title }}</a></h2>
 			<p>Time: {{ item.date | date_to_long_string }}</p>
 			<p>Place: {{ item.location }}</p>
 			<p>Address: {{ item.address }}   <a href=" {{ item.map }}"> (map)</a></p>
