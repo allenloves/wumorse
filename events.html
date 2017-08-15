@@ -9,13 +9,11 @@ title : Wu Morse Events
 	{% for item in site.data.events %}
 		<div class="title">
 			<li><a href="{{ item.url }}"> {{ item.title }}</a>
-			<!--
 			<p>Time: {{ item.date | date_to_long_string }}</p>
 			<p>Place: {{ item.location }}</p>
 			<p>Address: {{ item.address }}   <a href=" {{ item.map }}"> (map)</a></p>
 			<p>URL: <a href="{{ item.url }}">{{ item.url }}</a></p>
 			<p>Tel: {{ item.telephone }}</p>
-			-->
 			</li>
 		</div>
 	{% endfor %}
