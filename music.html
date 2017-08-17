@@ -8,7 +8,7 @@ title : Listen to Wu Morse Duo
 	<div id="page" class="container">
 	{% for item in site.data.music %}
 		<div class="title">
-			<li><h3><a href="{{ item.url }}"> {{ item.title }}</a></h3>
+			<li><h3><a href="{{ item.url }}"> {{ item.title }} -- {{ item.date | date_to_long_string }}</a></h3>
 			<p>{{ item.abstract }}</p>
 			</li>
 		</div>
