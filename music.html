@@ -1,0 +1,18 @@
+---
+layout : default
+title : Listen to Wu Morse Duo
+---
+
+<p>
+<div class="page-wrapper">
+	<div id="page" class="container">
+	{% for item in site.data.music %}
+		<div class="title">
+			<li><h3><a href="{{ item.url }}"> {{ item.title }}</a></h3>
+			<p>{{ item.abstract }}</p>
+			</li>
+		</div>
+	{% endfor %}
+	</div>
+</div>
+</p>
