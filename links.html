@@ -1,0 +1,17 @@
+---
+layout : default
+title : Links
+---
+
+<p>
+<div class="page-wrapper">
+	<div id="page" class="container">
+	<h2>Friends</h2>
+	{% for item in site.data.friends %}
+		<div class="title">
+			<li><h3><a href="{{ item.url }}"> {{ item.name }}</a></h3></li>
+		</div>
+	{% endfor %}
+	</div>
+</div>
+</p>
