@@ -1,5 +1,5 @@
 ---
-title : Welcome!!!
+title : Wu-Morse Duo: experimental composition and improvisation
 layout : default
 ---
 
