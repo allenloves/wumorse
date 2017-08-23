@@ -5,4 +5,8 @@ layout : default
 
 # NEWS
 
-Welcome to Wu Morse Duo Website.  Please enjoy out music and fun events with us.
+Watch the latest Wu-Morse interview session in WAFT radio station.
+
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jwQ0wgFXd-s" frameborder="0" allowfullscreen></iframe>
+</p>
