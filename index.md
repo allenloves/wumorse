@@ -5,8 +5,8 @@ layout : default
 
 # NEWS
 
-Watch the latest Wu-Morse interview session in WAFT radio station.
+Watch the latest Wu-Morse interview session in WAFT radio station with excellent music and very embarrassing awkward interviews.
 
 <p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jwQ0wgFXd-s" frameborder="0" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/jwQ0wgFXd-s" frameborder="0" allowfullscreen></iframe>
 </p>
