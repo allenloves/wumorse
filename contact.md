@@ -5,7 +5,7 @@ title : Contact Us
 
 # Contact Us
 
-The Wu-Morse Duo is available for:
+The Wu-Morse Duo is desperately looking for:
 
 - Universities and colleges
 - Private music schools
