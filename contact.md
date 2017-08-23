@@ -14,18 +14,18 @@ The Wu-Morse Duo is available for:
 - Coffee houses
 - Festivals
 - House parties
-- Special interdisciplinary events
+- Special events
 - Experimental theater
 - Planetariums
-- Kitchens
+
 
 To provide:
 
 - **Performances** of improvised electro-acoustical music
 - **Workshops** for beginning improvisers
 - **Lectures** on topics of experimental, electronic and 20 th century music
-- **Residencies**
 - **Collaborations** of all kinds
+
 
 ## Email:
 [wumorse@gmail.com](mailto://wumorse@gmail.com)
