@@ -9,11 +9,11 @@ title : Fun with Wu Morse Duo
 	{% for item in site.data.events %}
 		<div class="title">
 			<li><h3><a href="{{ item.url }}"> {{ item.title }}</a></h3>
-			<p>Time: {{ item.date | date_to_long_string }}<br>
-			Place: {{ item.location }}<br>
-			Address: {{ item.address }}   <a href=" {{ item.map }}"> (map)</a><br>
+			{% if item.date %} <p>Time: {{ item.date | date_to_long_string }}<br> {% endif %}
+			{% if item.location %} Place: {{ item.location }}<br> {% endif %}
+			{% if item.address %} Address: {{ item.address }} {% endif %}   {% if item.map %}<a href=" {{ item.map }}"> (map)</a>{% endif %}<br>
 			<!--<p>URL: <a href="{{ item.url }}">{{ item.url }}</a></p> -->
-			Tel: {{ item.telephone }}
+			{% if item.telephone %} Tel: {{ item.telephone }} {% endif %}
 			</li>
 		</div>
 	{% endfor %}
