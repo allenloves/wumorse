@@ -3,6 +3,4 @@ layout : default
 title : About Wu Morse Duo
 ---
 
-#About Wu Morse Duo
-
 The Wu-Morse Duo is a two-member collaboration between composers, educators and experimental electro-acoustic improvisers Allen Wu, (laptop, Linnstrument controller, theremin, and manipulations) and Barry R. Morse (trumpet, theremin, and electronics). We are interested in pure sounds and how they can be transformed into new sonic palettes; active, evolving and “organic” forms (vs. static or “drone” textures); diverse and often quickly shifting dramatic gestures (ambient to frighteningly violent); and unusual and non-standard performance venues (we have played in art galleries, planetariums and even a kitchen!). The Wu-Morse Duo enjoys collaborating with other improvisers and dancers and is always seeking to expand our associations with filmmakers, experimental theater, improvising painters, video artists, spoken word and any art forms from any other genre or culture. As educators, we are also happy to work with people new to improvisation through workshops and lectures and welcome opportunities to travel and share our art with the public.
