@@ -5,7 +5,7 @@ title : Contact Us
 
 # Contact Us
 
-The Wu-Morse Duo is desperately looking for:
+The Wu-Morse Duo is a very serious and professional musicians for:
 
 - Universities and colleges
 - Private music schools
@@ -17,6 +17,7 @@ The Wu-Morse Duo is desperately looking for:
 - Special events
 - Experimental theater
 - Planetariums
+- Kitchens
 
 
 To provide:
